@@ -1,0 +1,12 @@
+//Project birçok user'a sahip, ve user birçok task'a sahip.
+
+Project
+
+User 
+   project_id
+
+Task 
+    user_id
+
+
+$project->task    
